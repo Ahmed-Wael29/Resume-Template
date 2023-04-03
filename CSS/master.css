@@ -183,7 +183,7 @@ aside ul.main li a.active {
 }
 @media (max-width: 991px) {
   .landing .main-text {
-    font-size: 70px;
+    font-size: 60px;
   }
 }
 .landing .main-text span {
@@ -214,7 +214,7 @@ aside ul.main li a.active {
 }
 @media (max-width: 991px) {
   .landing .first-p {
-    font-size: 25px;
+    font-size: 20px;
   }
   .landing .second-p {
     font-size: 16px;
