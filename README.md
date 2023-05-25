@@ -1,3 +1,3 @@
 # Resume-Template
-# Livr Demo 
+# Live Demo 
 # https://ahmed-wael29.github.io/Resume-Template/
